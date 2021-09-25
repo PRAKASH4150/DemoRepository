@@ -1,0 +1,3 @@
+The command for git stash is "git stash"
+the command to show the stash list "git stash list"
+the command to remove the things from stash is "git stash pop"
