@@ -1,3 +1,6 @@
 The command for git stash is "git stash"
 the command to show the stash list "git stash list"
 the command to remove the things from stash is "git stash pop"
+
+git stash -u  ( to stash untracked files)
+git stash -a  (to stash untracked and ignored files")
